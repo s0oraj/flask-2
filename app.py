@@ -4,7 +4,6 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app) 
 
-
 # Sample hardcoded data for three students
 students = [
     {"id": 1, "name": "John Doe", "age": 20, "major": "Computer Science"},
