@@ -7,6 +7,7 @@ students = [
     {"id": 1, "name": "John Doe", "age": 20, "major": "Computer Science"},
     {"id": 2, "name": "Jane Smith", "age": 21, "major": "Electrical Engineering"},
     {"id": 3, "name": "Bob Johnson", "age": 19, "major": "Mechanical Engineering"},
+    {"id": 4, "name": "Bob Johnson", "age": 19, "major": "Mechanical Engineering"}
 ]
 
 
